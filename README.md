@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 
 **`Software Developer`**
+Based in Los Angeles
+Studied in San Francisco
+
+
 New Grad software developer who enjoys bringing ideas into reality 
