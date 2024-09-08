@@ -14,7 +14,7 @@
 
  Studied in San Francisco<br>Based in Los Angeles
 </h3>
-
+#
 <h3 align="center">--Find me here--</h3>
 <div align="center">
 
@@ -23,10 +23,11 @@
 
 </div>
 
-
+#
 <h3 align="center">Some Tools I use...</h3>
 
-
+<div align="center">
+ 
 ![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python&logoColor=FAE0E3 ) 
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=flat&logo=javascript&logoColor=FAE0E3 ) 
 ![Java](https://img.shields.io/badge/java-000000.svg?style=flat&logo=openjdk&logoColor=FAE0E3 ) 
@@ -39,7 +40,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=flat&logo=mysql&logoColor=FAE0E3 ) 
 ![Blender](https://img.shields.io/badge/blender-000000.svg?style=flat&logo=blender&logoColor=FAE0E3 ) 
 ![Figma](https://img.shields.io/badge/figma-000000.svg?style=flat&logo=figma&logoColor=FAE0E3 )
-
+</div>
 # 
 <div align="center">
   
