@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 
 **`Software Developer`**
+
+Esau Bojorquez Medina
+
 Based in Los Angeles
 Studied in San Francisco
 
 
-New Grad software developer who enjoys bringing ideas into reality 
+New Grad software developer who enjoys bringing ideas into reality!!
