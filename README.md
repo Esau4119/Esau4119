@@ -14,7 +14,9 @@
 
  Studied in San Francisco<br>Based in Los Angeles
 </h3>
-#
+
+## 
+
 <h3 align="center">--Find me here--</h3>
 <div align="center">
 
@@ -41,7 +43,7 @@
 ![Blender](https://img.shields.io/badge/blender-000000.svg?style=flat&logo=blender&logoColor=FAE0E3 ) 
 ![Figma](https://img.shields.io/badge/figma-000000.svg?style=flat&logo=figma&logoColor=FAE0E3 )
 </div>
-# 
+
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esau4119&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=FAE0E3&fire=FAE0E3&currStreakNum=FAE0E3&currStreakLabel=FAE0E3&dates=D6C6E1&sideNums=FAE0E3&sideLabels=FAE0E3)](https://git.io/streak-stats)
