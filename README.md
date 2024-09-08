@@ -43,8 +43,7 @@
 # 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Esau4119&theme=midnight-purple&hide_border=true&background=000000)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Esau4119&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=FAE0E3&fire=FAE0E3&currStreakNum=FAE0E3&currStreakLabel=FAE0E3&dates=D6C6E1&sideNums=FAE0E3&sideLabels=FAE0E3)](https://git.io/streak-stats)
 
 </div>
 
