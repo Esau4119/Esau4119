@@ -27,9 +27,19 @@
 <h3 align="center">Some Tools I use...</h3>
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python&logoColor=FAE0E3 ) 
+![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=flat&logo=javascript&logoColor=FAE0E3 ) 
+![Java](https://img.shields.io/badge/java-000000.svg?style=flat&logo=openjdk&logoColor=FAE0E3 ) 
+![C](https://img.shields.io/badge/c-000000.svg?style=flat&logo=c&logoColor=FAE0E3 ) 
+![C++](https://img.shields.io/badge/c++-000000.svg?style=flat&logo=c%2B%2B&logoColor=FAE0E3 ) 
+![React](https://img.shields.io/badge/react-000000.svg?style=flat&logo=react&logoColor=FAE0E3 ) 
+![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=flat&logo=express&logoColor=FAE0E3 ) 
+![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=flat&logo=mongodb&logoColor=FAE0E3 ) 
+![AWS](https://img.shields.io/badge/AWS-000000.svg?style=flat&logo=amazon-aws&logoColor=FAE0E3 ) 
+![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=flat&logo=mysql&logoColor=FAE0E3 ) 
+![Blender](https://img.shields.io/badge/blender-000000.svg?style=flat&logo=blender&logoColor=FAE0E3 ) 
+![Figma](https://img.shields.io/badge/figma-000000.svg?style=flat&logo=figma&logoColor=FAE0E3 )
+
 # 
 <div align="center">
   
