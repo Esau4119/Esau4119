@@ -43,7 +43,9 @@
 # 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Esau4119&theme=panda&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Esau4119&theme=midnight-purple&hide_border=true&background=000000)
+
+
 </div>
 
 
