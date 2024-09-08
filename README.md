@@ -1,8 +1,15 @@
 <h1 align="center">
  EBM
   </h1>
+<h4 align="center">
+ 
+ **`New Grad software developer`**<br>
+ **`Enjoys bringing ideas into reality`**<br>
+ 
+ </h4>
 <h3 align="center">
-New Grad software developer who enjoys bringing ideas into reality<br>
+ 
+
  Studied in San Francisco<br>Based in Los Angeles
 </h3>
 
