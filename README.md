@@ -17,7 +17,7 @@
 
 ## 
 
-<h3 align="center">--Find me here--</h3>
+<h3 align="center">🔗 Find me here 🔗</h3>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=FAE0E3)](https://linkedin.com/in/esaubm) [![EBM](https://img.shields.io/badge/EBM-Portfolio-000?labelColor=FAE0E3&style=flat)](https://ebmscrypt.com/)
