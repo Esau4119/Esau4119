@@ -5,7 +5,7 @@
   </h1>
 <h4 align="center">
  
- **`New Grad software developer`**<br>
+ **`New Grad Software Developer`**<br>
  **`Enjoys bringing ideas into reality`**<br>
  
  </h4>
